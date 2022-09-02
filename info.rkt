@@ -4,6 +4,6 @@
 (define deps '("base"))
 (define copy-foreign-libs '("libportaudio.2.dylib"
                             "librsoundcallbacks.dylib"))
-(define install-platform #rx"aarch64-macosx")
+(define install-platform "aarch64-macosx")
 
 
